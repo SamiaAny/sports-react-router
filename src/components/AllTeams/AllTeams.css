@@ -1,0 +1,17 @@
+.teams-container {
+    width: 80%;
+    margin: auto;
+}
+
+.search-box {
+    display: flex;
+    justify-content: center;
+}
+
+.search-box button {
+    margin-top: 9px;
+}
+
+input {
+    height: 40px;    
+}
